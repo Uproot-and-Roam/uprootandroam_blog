@@ -1,5 +1,5 @@
 <?php
-namespace Concrete\Package\NewThemePackage\Theme\NewTheme; //Change ThemeThemeName and ThemeName to the name of the theme folder Camel Case instead of underscore theme_name -> ThemeName
+namespace Concrete\Package\UprootandroamBlogPackage\Theme\UprootandroamBlog; //Change ThemeThemeName and ThemeName to the name of the theme folder Camel Case instead of underscore theme_name -> ThemeName
 use Concrete\Core\Area\Layout\Preset\Provider\ThemeProviderInterface;
 use Concrete\Core\Page\Theme\Theme; //Never Change this
 
@@ -18,12 +18,12 @@ class PageTheme extends Theme implements ThemeProviderInterface
 
     public function getThemeName()
     {
-        return t('New Theme');
+        return t('Uprootandroam Blog');
     }
 
     public function getThemeDescription()
     {
-        return t('Description for a new theme.');
+        return t('This is the theme for Uproot & Roam.');
     }
 
     /**
