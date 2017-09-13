@@ -8,7 +8,7 @@
 
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE-edge">
-	<link rel="stylesheet" href="<?php echo $view->getThemePath()?>/css/bootstrap-modified.css">
+<!--	<link rel="stylesheet" href="--><?php //echo $view->getThemePath()?><!--/css/bootstrap-modified.css">-->
 
     <!-- Start Polo Theme -->
     <link href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,800,700,600|Montserrat:400,500,600,700|Raleway:100,300,600,700,800" rel="stylesheet" type="text/css" />

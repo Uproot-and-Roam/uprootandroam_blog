@@ -9,7 +9,6 @@
 <!-- Polo Theme Scripts -->
 <!-- Go to top button -->
 <a id="goToTop"><i class="fa fa-angle-up top-icon"></i><i class="fa fa-angle-up"></i></a><!--Plugins-->
-<script src="<?php echo $view->getThemePath()?>/js/jquery.js"></script>
 <script src="<?php echo $view->getThemePath()?>/js/plugins.js"></script>
 
 <!--Template functions-->

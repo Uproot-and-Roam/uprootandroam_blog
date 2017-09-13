@@ -25,7 +25,7 @@ $this->inc('elements/header_top.php'); ?>
 <header id="header">
     <div id="header-wrap">
         <div class="container"> <!--Logo-->
-            <div id="logo"> <a href="index.html" class="logo" data-dark-logo="<?php echo $view->getThemePath()?>/images/ur_logo-dark.png"> <img src="<?php echo $view->getThemePath()?>/images/ur_logo.png" alt="Uproot & Roam Logo"> </a> </div>
+            <div id="logo"> <a href="index.html" class="logo" data-dark-logo="<?php echo $view->getThemePath()?>/images/ur_logo-dark.png"> <img src="<?php echo $view->getThemePath()?>/images/ur_logo.png" alt="Uproot & Roam"> </a> </div>
             <!--End: Logo-->
 
             <!--Top Search Form-->

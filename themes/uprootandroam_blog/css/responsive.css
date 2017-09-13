@@ -5,7 +5,7 @@
 
 /*
 Large devices
-Desktops (≥1200px) 
+Desktops (≥1200px)
 */
 
 
@@ -39,8 +39,8 @@ Desktops (≥992px)
         width: 100%;
         margin: 0;
     }
-    
-        
+
+
     .p-t-200 {
         padding-top: 80px !important;
     }
@@ -346,7 +346,7 @@ Desktops (≥992px)
     .sm-m-100 {
         margin: 100px!important
     }
-   
+
     /* ----------------------------------------------------------------
         Creative Profile Page
     -----------------------------------------------------------------*/
@@ -382,7 +382,7 @@ Desktops (≥992px)
     }
     /*    #header.header-fullwidth #header-wrap .container {
         padding: 0 15px;
-        
+
     }*/
 }
 
@@ -568,7 +568,7 @@ Tablets (≥768px)
         font-size: 40px !important;
         line-height: 40px !important;
     }
- 
+
     /*	Creative Profile Page */
     .profile-content .profile-image {
         height: 200px;

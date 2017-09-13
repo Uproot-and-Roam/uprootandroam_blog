@@ -20,6 +20,18 @@
         </div>
         <!-- end: Page title -->
 
+
+            <?php
+            $a = new Area('Main');
+            $a->enableGridContainer();
+            $a->display($c);
+
+            $a = new Area('Page Footer');
+            $a->enableGridContainer();
+            $a->display($c);
+            ?>
+
+
         <!-- Blog -->
         <div id="blog" class="grid-layout post-2-columns m-b-30" data-item="post-item">
 
